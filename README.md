@@ -1,0 +1,1 @@
+Welcome to my collection of notes and code snippets on NumPy, an essential library for scientific computing with Python. This Jupyter Notebook is designed to provide a clear and comprehensive guide to using NumPy for data manipulation, analysis, and more
